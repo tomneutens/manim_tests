@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="45.683716mm"
+   height="39.157478mm"
+   viewBox="0 0 45.683716 39.157478"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="krant.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <defs
+     id="defs2">
+    <symbol
+       id="icon-image">
+      <title
+         id="title81224">image</title>
+      <path
+         d="m 23,14 c 1.656,0 3,-1.344 3,-3 0,-1.656 -1.344,-3 -3,-3 -1.656,0 -3,1.344 -3,3 0,1.656 1.344,3 3,3 z"
+         id="path81226" />
+      <path
+         d="M 28.25,4 H 3.75 C 2.775,4 2,4.794 2,5.769 V 26.231 C 2,27.206 2.775,28 3.75,28 h 24.5 C 29.225,28 30,27.206 30,26.231 V 5.769 C 30,4.794 29.225,4 28.25,4 Z m -6.444,12.356 c -0.188,-0.219 -0.475,-0.387 -0.8,-0.387 -0.319,0 -0.544,0.15 -0.8,0.356 l -1.169,0.988 c -0.244,0.175 -0.438,0.294 -0.719,0.294 -0.269,0 -0.512,-0.1 -0.688,-0.256 -0.063,-0.056 -0.175,-0.163 -0.269,-0.256 l -3.363,-3.637 c -0.25,-0.287 -0.625,-0.469 -1.044,-0.469 -0.419,0 -0.806,0.206 -1.05,0.488 L 3.998,23.014 V 6.733 C 4.061,6.308 4.392,6.002 4.817,6.002 h 22.356 c 0.431,0 0.781,0.319 0.806,0.75 l 0.019,16.275 -6.194,-6.669 z"
+         id="path81228" />
+    </symbol>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-142.0485,-78.087904)">
+    <use
+       xlink:href="#icon-image"
+       style="fill:#000000;stroke:none"
+       id="use99798"
+       transform="matrix(1.6315615,0,0,1.6315615,138.78538,71.561656)"
+       inkscape:export-filename=".\image"
+       inkscape:export-xdpi="113.08342"
+       inkscape:export-ydpi="113.08342" />
+  </g>
+</svg>
